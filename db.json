@@ -4,5 +4,5 @@
         {"id":2, "title": "Order2", "price": 65346, "shipment": false},
         {"id":3, "title": "Order3", "price": 24225, "shipment": false},
         {"id":4, "title": "Order4", "price": 123325, "shipment": true}
-  ],
+  ]
 }
